@@ -15,3 +15,5 @@
 > 完成quiz1
 
 > 完成primitive_types文件夹下的练习题
+
+> 完成structs文件夹下的练习题
