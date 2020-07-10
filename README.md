@@ -17,3 +17,5 @@
 > 完成primitive_types文件夹下的练习题
 
 > 完成structs文件夹下的练习题
+
+> 完成strings文件夹下的练习题
