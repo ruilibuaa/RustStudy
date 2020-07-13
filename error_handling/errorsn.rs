@@ -69,7 +69,7 @@ fn test_ioerror() {
     }
     let mut b = io::BufReader::new(Broken);
     assert!(read_and_validate(&mut b).is_err());
-    //assert_eq!("uh-oh!", read_and_validate(&mut b).unwrap_err().to_string());
+    assert_eq!("uh-oh!", read_and_validate(&mut b).unwrap_err().to_string());
 }
 
 #[derive(PartialEq, Debug)]
