@@ -45,3 +45,5 @@
 > 完成option文件夹下的练习题
 
 > 完成clippy文件夹下的练习题
+
+> 完成standard_library_types文件夹下的练习题
