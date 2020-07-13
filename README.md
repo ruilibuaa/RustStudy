@@ -49,3 +49,5 @@
 > 完成standard_library_types文件夹下的练习题
 
 > 完成traits文件夹下的练习题
+
+> 完成generics文件夹下的练习题
